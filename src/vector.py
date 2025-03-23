@@ -1,5 +1,6 @@
 import math
 
+
 class Vec3(list):
 
     def __init__(self, e0, e1, e2):
